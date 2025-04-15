@@ -1,4 +1,4 @@
-[https://en.wikipedia.org/wiki/Category:Kinect_games
+#https://en.wikipedia.org/wiki/Category:Kinect_games
 
 | Image | English Name                                                                                                                                          | Chinese Name                     | Console        | Cached? | Downloaded? |
 | :---: |:------------------------------------------------------------------------------------------------------------------------------------------------------|:----- |:----- |:-----:|:-----------:|
